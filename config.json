@@ -1,0 +1,6 @@
+{
+
+    "connectionString": "mongodb://192.168.1.60:27017/db_grammer",
+    "secret": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "front_end_url":"language-tool-admin.go-demo.co"
+}
